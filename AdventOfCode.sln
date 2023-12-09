@@ -10,9 +10,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 1", "Day 1", "{D5B78DA6
 		Day 1\input_sample2.txt = Day 1\input_sample2.txt
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Trebuchet", "Day 1\Trebuchet\Trebuchet.csproj", "{7C9E3248-30F8-48B9-BE6C-0F69DF1477CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Trebuchet.PartOne", "Day 1\Trebuchet.PartOne\Trebuchet.PartOne.csproj", "{7C9E3248-30F8-48B9-BE6C-0F69DF1477CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartTwo", "Day 1\PartTwo\PartTwo.csproj", "{D03BE23E-28CF-4E28-ACF0-474A14BF7145}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Trebuchet.PartTwo", "Day 1\Trebuchet.PartTwo\Trebuchet.PartTwo.csproj", "{D03BE23E-28CF-4E28-ACF0-474A14BF7145}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 2", "Day 2", "{0E9C8571-9F1C-4276-BEFB-737B64E7A377}"
 	ProjectSection(SolutionItems) = preProject
@@ -20,9 +20,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 2", "Day 2", "{0E9C8571
 		Day 2\input_sample.txt = Day 2\input_sample.txt
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cube Conundrum", "Day 2\Cube Conundrum\Cube Conundrum.csproj", "{04506839-242F-49B1-9F24-6C11003AAEC3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CubeConundrum.PartOne", "Day 2\CubeConundrum.PartOne\CubeConundrum.PartOne.csproj", "{04506839-242F-49B1-9F24-6C11003AAEC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartTwo", "Day 2\PartTwo\PartTwo.csproj", "{1D7C25C0-0A86-47D0-9C4A-F88E8F0F64DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CubeConundrum.PartTwo", "Day 2\CubeConundrum.PartTwo\CubeConundrum.PartTwo.csproj", "{1D7C25C0-0A86-47D0-9C4A-F88E8F0F64DE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 3", "Day 3", "{846469F3-3181-4A6A-85FF-A3C84377ED05}"
+	ProjectSection(SolutionItems) = preProject
+		Day 3\input.txt = Day 3\input.txt
+		Day 3\input_sample.txt = Day 3\input_sample.txt
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GearRatios.PartOne", "Day 3\GearRatios.PartOne\GearRatios.PartOne.csproj", "{F701DED0-FF99-4ABC-8E8C-6DB63CB68220}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdventOfCode.Common", "AdventOfCode.Common\AdventOfCode.Common.csproj", "{BCD1211A-3775-4277-BAB4-BEEF4919AAD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GearRatios.PartTwo", "Day 3\GearRatios.PartTwo\GearRatios.PartTwo.csproj", "{D5B9B3F2-7738-42A2-9826-31D0D0E911EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -46,6 +58,18 @@ Global
 		{1D7C25C0-0A86-47D0-9C4A-F88E8F0F64DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D7C25C0-0A86-47D0-9C4A-F88E8F0F64DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D7C25C0-0A86-47D0-9C4A-F88E8F0F64DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F701DED0-FF99-4ABC-8E8C-6DB63CB68220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F701DED0-FF99-4ABC-8E8C-6DB63CB68220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F701DED0-FF99-4ABC-8E8C-6DB63CB68220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F701DED0-FF99-4ABC-8E8C-6DB63CB68220}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCD1211A-3775-4277-BAB4-BEEF4919AAD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCD1211A-3775-4277-BAB4-BEEF4919AAD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCD1211A-3775-4277-BAB4-BEEF4919AAD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCD1211A-3775-4277-BAB4-BEEF4919AAD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5B9B3F2-7738-42A2-9826-31D0D0E911EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5B9B3F2-7738-42A2-9826-31D0D0E911EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5B9B3F2-7738-42A2-9826-31D0D0E911EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5B9B3F2-7738-42A2-9826-31D0D0E911EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -55,6 +79,8 @@ Global
 		{D03BE23E-28CF-4E28-ACF0-474A14BF7145} = {D5B78DA6-8B3B-49F3-B618-B6B4FCB4A479}
 		{04506839-242F-49B1-9F24-6C11003AAEC3} = {0E9C8571-9F1C-4276-BEFB-737B64E7A377}
 		{1D7C25C0-0A86-47D0-9C4A-F88E8F0F64DE} = {0E9C8571-9F1C-4276-BEFB-737B64E7A377}
+		{F701DED0-FF99-4ABC-8E8C-6DB63CB68220} = {846469F3-3181-4A6A-85FF-A3C84377ED05}
+		{D5B9B3F2-7738-42A2-9826-31D0D0E911EB} = {846469F3-3181-4A6A-85FF-A3C84377ED05}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9B0A95D0-8E00-4AB9-9C05-422481E626E4}
