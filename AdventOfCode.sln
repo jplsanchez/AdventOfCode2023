@@ -52,9 +52,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 5", "Day 5", "{EEBA012B
 		Day 5\input_sample.txt = Day 5\input_sample.txt
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfYouGiveASeedAFertilizer.PartOne", "Day 5\IfYouGiveASeedAFertilizer.PartOne\IfYouGiveASeedAFertilizer.PartOne.csproj", "{F5B2AF52-85DB-43E2-A348-8078F4909FFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IfYouGiveASeedAFertilizer.PartOne", "Day 5\IfYouGiveASeedAFertilizer.PartOne\IfYouGiveASeedAFertilizer.PartOne.csproj", "{F5B2AF52-85DB-43E2-A348-8078F4909FFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfYouGiveASeedAFertilizer.PartTwo", "Day 5\IfYouGiveASeedAFertilizer.PartTwo\IfYouGiveASeedAFertilizer.PartTwo.csproj", "{B1274345-B2C8-4258-9707-B3137135515B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IfYouGiveASeedAFertilizer.PartTwo", "Day 5\IfYouGiveASeedAFertilizer.PartTwo\IfYouGiveASeedAFertilizer.PartTwo.csproj", "{B1274345-B2C8-4258-9707-B3137135515B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaitForIt.PartOne", "Day 6\WaitForIt.PartOne\WaitForIt.PartOne\WaitForIt.PartOne.csproj", "{E9A73B97-AD7E-4C49-B680-5911E8890D8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaitForIt.PartTwo", "Day 6\WaitForIt.PartTwo\WaitForIt.PartTwo\WaitForIt.PartTwo.csproj", "{59F8B135-347E-467A-8A6F-4D6CE139432C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 6", "Day 6", "{4FA8E4A4-0D7E-42FC-A391-516449800ADF}"
+	ProjectSection(SolutionItems) = preProject
+		Day 6\input.txt = Day 6\input.txt
+		Day 6\input_sample.txt = Day 6\input_sample.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -106,6 +116,14 @@ Global
 		{B1274345-B2C8-4258-9707-B3137135515B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1274345-B2C8-4258-9707-B3137135515B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1274345-B2C8-4258-9707-B3137135515B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9A73B97-AD7E-4C49-B680-5911E8890D8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9A73B97-AD7E-4C49-B680-5911E8890D8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9A73B97-AD7E-4C49-B680-5911E8890D8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9A73B97-AD7E-4C49-B680-5911E8890D8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59F8B135-347E-467A-8A6F-4D6CE139432C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59F8B135-347E-467A-8A6F-4D6CE139432C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59F8B135-347E-467A-8A6F-4D6CE139432C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59F8B135-347E-467A-8A6F-4D6CE139432C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -121,6 +139,8 @@ Global
 		{B7006C6E-EE56-439C-A8FE-6E410D911AE3} = {7D4B307F-0A6F-4E13-97F3-4876675F4195}
 		{F5B2AF52-85DB-43E2-A348-8078F4909FFE} = {EEBA012B-6F49-4D7C-8513-DDF593853925}
 		{B1274345-B2C8-4258-9707-B3137135515B} = {EEBA012B-6F49-4D7C-8513-DDF593853925}
+		{E9A73B97-AD7E-4C49-B680-5911E8890D8E} = {4FA8E4A4-0D7E-42FC-A391-516449800ADF}
+		{59F8B135-347E-467A-8A6F-4D6CE139432C} = {4FA8E4A4-0D7E-42FC-A391-516449800ADF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9B0A95D0-8E00-4AB9-9C05-422481E626E4}
