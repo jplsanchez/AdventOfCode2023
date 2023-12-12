@@ -56,15 +56,33 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IfYouGiveASeedAFertilizer.P
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IfYouGiveASeedAFertilizer.PartTwo", "Day 5\IfYouGiveASeedAFertilizer.PartTwo\IfYouGiveASeedAFertilizer.PartTwo.csproj", "{B1274345-B2C8-4258-9707-B3137135515B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaitForIt.PartOne", "Day 6\WaitForIt.PartOne\WaitForIt.PartOne\WaitForIt.PartOne.csproj", "{E9A73B97-AD7E-4C49-B680-5911E8890D8E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WaitForIt.PartOne", "Day 6\WaitForIt.PartOne\WaitForIt.PartOne\WaitForIt.PartOne.csproj", "{E9A73B97-AD7E-4C49-B680-5911E8890D8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaitForIt.PartTwo", "Day 6\WaitForIt.PartTwo\WaitForIt.PartTwo\WaitForIt.PartTwo.csproj", "{59F8B135-347E-467A-8A6F-4D6CE139432C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WaitForIt.PartTwo", "Day 6\WaitForIt.PartTwo\WaitForIt.PartTwo\WaitForIt.PartTwo.csproj", "{59F8B135-347E-467A-8A6F-4D6CE139432C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 6", "Day 6", "{4FA8E4A4-0D7E-42FC-A391-516449800ADF}"
 	ProjectSection(SolutionItems) = preProject
 		Day 6\input.txt = Day 6\input.txt
 		Day 6\input_sample.txt = Day 6\input_sample.txt
 	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CamelCards.PartOne", "Day 7\CamelCards.PartOne\CamelCards.PartOne\CamelCards.PartOne.csproj", "{890DE860-FC93-4C03-96DF-77D55D65E28F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CamelCards.PartTwo", "Day 7\CamelCards.PartTwo\CamelCards.PartTwo\CamelCards.PartTwo.csproj", "{2B66D285-9FB2-4360-8E67-D2D20D6A147D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 7", "Day 7", "{DDF0C1B9-C475-440A-B159-A2F97DF56857}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 8", "Day 8", "{D91C5AC6-46EF-444E-9990-7A081E8BD1D1}"
+	ProjectSection(SolutionItems) = preProject
+		Day 8\input.txt = Day 8\input.txt
+		Day 8\input_sample.txt = Day 8\input_sample.txt
+		Day 8\input_sample2.txt = Day 8\input_sample2.txt
+		Day 8\input_sample3.txt = Day 8\input_sample3.txt
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HauntedWasteland.PartOne", "Day 8\HauntedWasteland.PartOne\HauntedWasteland.PartOne\HauntedWasteland.PartOne.csproj", "{F3943C79-F667-4FB1-BF3E-59C46BE08F00}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HauntedWasteland.PartTwo", "Day 8\HauntedWasteland.PartTwo\HauntedWasteland.PartTwo\HauntedWasteland.PartTwo.csproj", "{7BB82F07-3BDB-4C26-8422-AC3A7D59EFFF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -124,6 +142,22 @@ Global
 		{59F8B135-347E-467A-8A6F-4D6CE139432C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59F8B135-347E-467A-8A6F-4D6CE139432C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59F8B135-347E-467A-8A6F-4D6CE139432C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{890DE860-FC93-4C03-96DF-77D55D65E28F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{890DE860-FC93-4C03-96DF-77D55D65E28F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{890DE860-FC93-4C03-96DF-77D55D65E28F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{890DE860-FC93-4C03-96DF-77D55D65E28F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B66D285-9FB2-4360-8E67-D2D20D6A147D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B66D285-9FB2-4360-8E67-D2D20D6A147D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B66D285-9FB2-4360-8E67-D2D20D6A147D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B66D285-9FB2-4360-8E67-D2D20D6A147D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3943C79-F667-4FB1-BF3E-59C46BE08F00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3943C79-F667-4FB1-BF3E-59C46BE08F00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3943C79-F667-4FB1-BF3E-59C46BE08F00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3943C79-F667-4FB1-BF3E-59C46BE08F00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BB82F07-3BDB-4C26-8422-AC3A7D59EFFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BB82F07-3BDB-4C26-8422-AC3A7D59EFFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BB82F07-3BDB-4C26-8422-AC3A7D59EFFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BB82F07-3BDB-4C26-8422-AC3A7D59EFFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -141,6 +175,10 @@ Global
 		{B1274345-B2C8-4258-9707-B3137135515B} = {EEBA012B-6F49-4D7C-8513-DDF593853925}
 		{E9A73B97-AD7E-4C49-B680-5911E8890D8E} = {4FA8E4A4-0D7E-42FC-A391-516449800ADF}
 		{59F8B135-347E-467A-8A6F-4D6CE139432C} = {4FA8E4A4-0D7E-42FC-A391-516449800ADF}
+		{890DE860-FC93-4C03-96DF-77D55D65E28F} = {DDF0C1B9-C475-440A-B159-A2F97DF56857}
+		{2B66D285-9FB2-4360-8E67-D2D20D6A147D} = {DDF0C1B9-C475-440A-B159-A2F97DF56857}
+		{F3943C79-F667-4FB1-BF3E-59C46BE08F00} = {D91C5AC6-46EF-444E-9990-7A081E8BD1D1}
+		{7BB82F07-3BDB-4C26-8422-AC3A7D59EFFF} = {D91C5AC6-46EF-444E-9990-7A081E8BD1D1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9B0A95D0-8E00-4AB9-9C05-422481E626E4}
