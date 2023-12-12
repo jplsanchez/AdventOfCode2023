@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 1", "Day 1", "{D5B78DA6-8B3B-49F3-B618-B6B4FCB4A479}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 01", "Day 01", "{D5B78DA6-8B3B-49F3-B618-B6B4FCB4A479}"
 	ProjectSection(SolutionItems) = preProject
 		Day 1\input.txt = Day 1\input.txt
 		Day 1\input_sample.txt = Day 1\input_sample.txt
@@ -14,7 +14,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Trebuchet.PartOne", "Day 1\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Trebuchet.PartTwo", "Day 1\Trebuchet.PartTwo\Trebuchet.PartTwo.csproj", "{D03BE23E-28CF-4E28-ACF0-474A14BF7145}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 2", "Day 2", "{0E9C8571-9F1C-4276-BEFB-737B64E7A377}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 02", "Day 02", "{0E9C8571-9F1C-4276-BEFB-737B64E7A377}"
 	ProjectSection(SolutionItems) = preProject
 		Day 2\input.txt = Day 2\input.txt
 		Day 2\input_sample.txt = Day 2\input_sample.txt
@@ -24,7 +24,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CubeConundrum.PartOne", "Da
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CubeConundrum.PartTwo", "Day 2\CubeConundrum.PartTwo\CubeConundrum.PartTwo.csproj", "{1D7C25C0-0A86-47D0-9C4A-F88E8F0F64DE}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 3", "Day 3", "{846469F3-3181-4A6A-85FF-A3C84377ED05}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 03", "Day 03", "{846469F3-3181-4A6A-85FF-A3C84377ED05}"
 	ProjectSection(SolutionItems) = preProject
 		Day 3\input.txt = Day 3\input.txt
 		Day 3\input_sample.txt = Day 3\input_sample.txt
@@ -36,7 +36,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdventOfCode.Common", "Adve
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GearRatios.PartTwo", "Day 3\GearRatios.PartTwo\GearRatios.PartTwo.csproj", "{D5B9B3F2-7738-42A2-9826-31D0D0E911EB}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 4", "Day 4", "{7D4B307F-0A6F-4E13-97F3-4876675F4195}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 04", "Day 04", "{7D4B307F-0A6F-4E13-97F3-4876675F4195}"
 	ProjectSection(SolutionItems) = preProject
 		Day 4\input.txt = Day 4\input.txt
 		Day 4\input_sample.txt = Day 4\input_sample.txt
@@ -46,7 +46,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scratchcards.PartOne", "Day
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scratchcards.PartTwo", "Day 4\Scratchcards.PartTwo\Scratchcards.PartTwo.csproj", "{B7006C6E-EE56-439C-A8FE-6E410D911AE3}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 5", "Day 5", "{EEBA012B-6F49-4D7C-8513-DDF593853925}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 05", "Day 05", "{EEBA012B-6F49-4D7C-8513-DDF593853925}"
 	ProjectSection(SolutionItems) = preProject
 		Day 5\input.txt = Day 5\input.txt
 		Day 5\input_sample.txt = Day 5\input_sample.txt
@@ -60,7 +60,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WaitForIt.PartOne", "Day 6\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WaitForIt.PartTwo", "Day 6\WaitForIt.PartTwo\WaitForIt.PartTwo\WaitForIt.PartTwo.csproj", "{59F8B135-347E-467A-8A6F-4D6CE139432C}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 6", "Day 6", "{4FA8E4A4-0D7E-42FC-A391-516449800ADF}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 06", "Day 06", "{4FA8E4A4-0D7E-42FC-A391-516449800ADF}"
 	ProjectSection(SolutionItems) = preProject
 		Day 6\input.txt = Day 6\input.txt
 		Day 6\input_sample.txt = Day 6\input_sample.txt
@@ -70,9 +70,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CamelCards.PartOne", "Day 7
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CamelCards.PartTwo", "Day 7\CamelCards.PartTwo\CamelCards.PartTwo\CamelCards.PartTwo.csproj", "{2B66D285-9FB2-4360-8E67-D2D20D6A147D}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 7", "Day 7", "{DDF0C1B9-C475-440A-B159-A2F97DF56857}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 07", "Day 07", "{DDF0C1B9-C475-440A-B159-A2F97DF56857}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 8", "Day 8", "{D91C5AC6-46EF-444E-9990-7A081E8BD1D1}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 08", "Day 08", "{D91C5AC6-46EF-444E-9990-7A081E8BD1D1}"
 	ProjectSection(SolutionItems) = preProject
 		Day 8\input.txt = Day 8\input.txt
 		Day 8\input_sample.txt = Day 8\input_sample.txt
@@ -86,7 +86,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HauntedWasteland.PartTwo", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{265EE36C-F06C-4591-8018-14AC166DDF16}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 9", "Day 9", "{D12FEC46-C37E-413D-9B13-8F50F7905240}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 09", "Day 09", "{D12FEC46-C37E-413D-9B13-8F50F7905240}"
 	ProjectSection(SolutionItems) = preProject
 		Day 9\input.txt = Day 9\input.txt
 		Day 9\input_sample.txt = Day 9\input_sample.txt
