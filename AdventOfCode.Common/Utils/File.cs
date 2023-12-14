@@ -1,6 +1,6 @@
 ﻿namespace AdventOfCode.Common.Utils
 {
-    public static class Loader
+    public static class FileUtils
     {
         public static StreamReader Load(string fileName)
         {
