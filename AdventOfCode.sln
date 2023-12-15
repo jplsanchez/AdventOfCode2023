@@ -92,9 +92,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 09", "Day 09", "{D12FEC
 		Day 9\input_sample.txt = Day 9\input_sample.txt
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MirageMaintenance.PartOne", "Day 9\MirageMaintenance.PartOne\MirageMaintenance.PartOne\MirageMaintenance.PartOne.csproj", "{A6C5DF6D-C6AC-4AFF-8550-E2D579A5F8AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MirageMaintenance.PartOne", "Day 9\MirageMaintenance.PartOne\MirageMaintenance.PartOne\MirageMaintenance.PartOne.csproj", "{A6C5DF6D-C6AC-4AFF-8550-E2D579A5F8AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MirageMaintenance.PartTwo", "Day 9\MirageMaintenance.PartTwo\MirageMaintenance.PartTwo\MirageMaintenance.PartTwo.csproj", "{496CDFF3-D0EE-4317-8B0D-1177B1EC6E66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MirageMaintenance.PartTwo", "Day 9\MirageMaintenance.PartTwo\MirageMaintenance.PartTwo\MirageMaintenance.PartTwo.csproj", "{496CDFF3-D0EE-4317-8B0D-1177B1EC6E66}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 10", "Day 10", "{8C93ED68-D344-40E3-8CF4-7894648E77C3}"
 	ProjectSection(SolutionItems) = preProject
@@ -103,9 +103,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 10", "Day 10", "{8C93ED
 		Day 10\input_sample2.txt = Day 10\input_sample2.txt
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PipeMaze.PartOne", "Day 10\PipeMaze.PartOne\PipeMaze.PartOne\PipeMaze.PartOne.csproj", "{F3FBF98A-3B71-4265-9E76-FA659E6174BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PipeMaze.PartOne", "Day 10\PipeMaze.PartOne\PipeMaze.PartOne\PipeMaze.PartOne.csproj", "{F3FBF98A-3B71-4265-9E76-FA659E6174BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PipeMaze.PartTwo", "Day 10\PipeMaze.PartTwo\PipeMaze.PartTwo\PipeMaze.PartTwo.csproj", "{07B3F428-F4D3-4387-9DDE-43D9879F51D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PipeMaze.PartTwo", "Day 10\PipeMaze.PartTwo\PipeMaze.PartTwo\PipeMaze.PartTwo.csproj", "{07B3F428-F4D3-4387-9DDE-43D9879F51D8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CosmicExpansion.PartOne", "Day 11\CosmicExpansion.PartOne\CosmicExpansion.PartOne\CosmicExpansion.PartOne.csproj", "{E0D24436-DF51-41A8-AE98-73CCA309EA32}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 11", "Day 11", "{36317B02-2BF1-4C86-B902-7810CAC1C20C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmicExpansion.PartTwo", "Day 11\CosmicExpansion.PartTwo\CosmicExpansion.PartTwo\CosmicExpansion.PartTwo.csproj", "{B6E15E66-5BA5-41CB-B156-6041EC40477D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -197,6 +203,14 @@ Global
 		{07B3F428-F4D3-4387-9DDE-43D9879F51D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07B3F428-F4D3-4387-9DDE-43D9879F51D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07B3F428-F4D3-4387-9DDE-43D9879F51D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0D24436-DF51-41A8-AE98-73CCA309EA32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0D24436-DF51-41A8-AE98-73CCA309EA32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0D24436-DF51-41A8-AE98-73CCA309EA32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0D24436-DF51-41A8-AE98-73CCA309EA32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6E15E66-5BA5-41CB-B156-6041EC40477D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6E15E66-5BA5-41CB-B156-6041EC40477D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6E15E66-5BA5-41CB-B156-6041EC40477D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6E15E66-5BA5-41CB-B156-6041EC40477D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -223,6 +237,8 @@ Global
 		{496CDFF3-D0EE-4317-8B0D-1177B1EC6E66} = {D12FEC46-C37E-413D-9B13-8F50F7905240}
 		{F3FBF98A-3B71-4265-9E76-FA659E6174BC} = {8C93ED68-D344-40E3-8CF4-7894648E77C3}
 		{07B3F428-F4D3-4387-9DDE-43D9879F51D8} = {8C93ED68-D344-40E3-8CF4-7894648E77C3}
+		{E0D24436-DF51-41A8-AE98-73CCA309EA32} = {36317B02-2BF1-4C86-B902-7810CAC1C20C}
+		{B6E15E66-5BA5-41CB-B156-6041EC40477D} = {36317B02-2BF1-4C86-B902-7810CAC1C20C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9B0A95D0-8E00-4AB9-9C05-422481E626E4}
